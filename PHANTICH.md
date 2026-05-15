@@ -81,3 +81,9 @@ Hệ thống tập trung vào 02 đối tượng chính:
 
 <img width="627" height="610" alt="image" src="https://github.com/user-attachments/assets/ff3b7b56-e5c8-4f70-9636-644a2c3adc73" />
 
+## 6. Biểu đồ Sequence Diagram
+
+**Biểu đồ tuần tự: quy trình "Đăng ký đóng góp"**
+
+<img width="709" height="641" alt="image" src="https://github.com/user-attachments/assets/bb7a90e9-f987-490b-99f5-ac44499b3cd1" />
+
