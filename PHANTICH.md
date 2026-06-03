@@ -217,6 +217,41 @@ getDonationsByUserId(), getDonationsByCampaignId(): Truy vấn danh sách giao d
 
 ---
 
+## 9. Hình ảnh Demo
+
+**9.1**
+
+<img width="568" height="505" alt="image" src="https://github.com/user-attachments/assets/24bfa3a0-9eef-4258-b1ec-dce979e32eaf" />
+
+**9.2**
+
+<img width="1833" height="934" alt="Screenshot 2026-06-03 171946" src="https://github.com/user-attachments/assets/d2fa7b53-408d-4560-8f85-3d207cc1f9d9" />
+
+**9.3**
+
+<img width="1777" height="928" alt="Screenshot 2026-06-03 172001" src="https://github.com/user-attachments/assets/25e1628a-9a65-486f-a55d-e0bb418cd073" />
+
+**9.4**
+
+<img width="1863" height="918" alt="Screenshot 2026-06-03 172019" src="https://github.com/user-attachments/assets/d9c7178e-5f32-470b-ba9b-955d422f008c" />
+
+**9.5**
+
+<img width="1429" height="861" alt="Screenshot 2026-06-03 172048" src="https://github.com/user-attachments/assets/8d2cfe51-85e0-4d6e-884e-f08e9bbec943" />
+
+**9.6**
+
+<img width="1145" height="909" alt="Screenshot 2026-06-03 172108" src="https://github.com/user-attachments/assets/cebbd97a-b3b4-40bc-a434-eb6f4852e09e" />
+
+**9.7**
+
+<img width="1845" height="926" alt="Screenshot 2026-06-03 172034" src="https://github.com/user-attachments/assets/7f244b9d-a614-41ee-80c5-0efd8fa5312d" />
+
+**9.8**
+
+<img width="1866" height="919" alt="Screenshot 2026-06-03 172131" src="https://github.com/user-attachments/assets/39013d0a-9caf-485c-a8f1-fddbe40d8c7a" />
+
+
 ## 10. Testcase
 
 [📥 Bấm vào đây để tải file Excel TESTCASE](TESTCASEdonggop.xlsx)
