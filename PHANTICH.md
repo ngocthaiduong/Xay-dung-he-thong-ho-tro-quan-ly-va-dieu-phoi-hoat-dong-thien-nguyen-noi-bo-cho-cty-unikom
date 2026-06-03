@@ -217,8 +217,10 @@ getDonationsByUserId(), getDonationsByCampaignId(): Truy vấn danh sách giao d
 
 ---
 
-## 9. Giao diện Demo
 ## 10. Testcase
+
+[📥 Bấm vào đây để tải file Excel TESTCASE](TESTCASEdonggop.xlsx)
+
 ## 11. Kết quả đạt được
 
 Trải qua quá trình nghiên cứu, phân tích thiết kế hệ thống hướng đối tượng và triển khai thực nghiệm, dự án xây dựng hệ thống Quản lý Chiến dịch Thiện nguyện dựa trên nền tảng Java Servlet và SQL Server đã hoàn thành đầy đủ các mục tiêu cá nhân đề ra ban đầu, cụ thể bao gồm:
